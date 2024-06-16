@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import '../App.css';
 
 const SearchCities = () => {
   const [query, setQuery] = useState('');
@@ -58,37 +59,14 @@ const SearchCities = () => {
     return filtered.slice(0, 10);
   };
 
-  const dropdownStyles = `
-    .dropdown {
-      position: absolute;
-      z-index: 1;
-      background-color: #fff;
-      border: 1px solid #ccc;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      list-style-type: none;
-      padding: 0;
-      margin: 0;
-      width: calc(100% - 2px); /* Adjust width to match input */
-    }
-
-    .dropdown li {
-      padding: 8px 16px;
-      cursor: pointer;
-    }
-
-    .dropdown li:hover {
-      background-color: #f0f0f0;
-    }
-  `;
-
   return (
-    <div>
-      <style>{dropdownStyles}</style>
+    <div className="search-container">
       <input 
         type="text" 
         value={query} 
         onChange={handleInputChange} 
         placeholder="Search cities..." 
+        className="search-input"
       />
       {showDropdown && (
         <ul className="dropdown">
