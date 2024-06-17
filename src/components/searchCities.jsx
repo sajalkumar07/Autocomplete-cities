@@ -7,12 +7,31 @@ const SearchCities = () => {
   const [filteredCities, setFilteredCities] = useState([]);
   const [showDropdown, setShowDropdown] = useState(false);
 
+  const filterCities = (cities, query) => {
+    const regex = new RegExp(`^${query}`, 'i'); 
+    const filtered = cities.filter(city => regex.test(city));
+
+    if (filtered.length < 10) {
+      const regexEnd = new RegExp(`${query}$`, 'i');
+      const endFiltered = cities.filter(city => regexEnd.test(city) && !filtered.includes(city));
+      filtered.push(...endFiltered.slice(0, 10 - filtered.length));
+    }
+
+    if (filtered.length < 10) {
+      const regexMiddle = new RegExp(query, 'i'); 
+      const middleFiltered = cities.filter(city => regexMiddle.test(city) && !filtered.includes(city));
+      filtered.push(...middleFiltered.slice(0, 10 - filtered.length));
+    }
+
+    return filtered.slice(0, 10);
+  };
+
   useEffect(() => {
     const fetchData = async () => {
       if (query.length >= 3) {
         try {
-          const response = await axios.get(`https://autocomplete.travelpayouts.com/places2?locale=en&types[]=city&term=${query}`);
-          const cities = response.data.map(place => place.name);
+          const response = await axios.get(`https://countriesnow.space/api/v0.1/countries/population/cities`);
+          const cities = response.data.data.map(place => place.city); // Correct data extraction
           const filtered = filterCities(cities, query);
           setFilteredCities(filtered);
           setShowDropdown(true);
@@ -38,25 +57,6 @@ const SearchCities = () => {
   const handleSelectCity = (city) => {
     setQuery(city);
     setShowDropdown(false);
-  };
-
-  const filterCities = (cities, query) => {
-    const regex = new RegExp(`^${query}`, 'i'); 
-    const filtered = cities.filter(city => regex.test(city));
-    
-    if (filtered.length < 10) {
-      const regexEnd = new RegExp(`${query}$`, 'i');
-      const endFiltered = cities.filter(city => regexEnd.test(city) && !filtered.includes(city));
-      filtered.push(...endFiltered.slice(0, 10 - filtered.length));
-    }
-
-    if (filtered.length < 10) {
-      const regexMiddle = new RegExp(query, 'i'); 
-      const middleFiltered = cities.filter(city => regexMiddle.test(city) && !filtered.includes(city));
-      filtered.push(...middleFiltered.slice(0, 10 - filtered.length));
-    }
-
-    return filtered.slice(0, 10);
   };
 
   return (

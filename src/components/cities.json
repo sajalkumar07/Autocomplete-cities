@@ -1,0 +1,1474 @@
+[
+    {
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "region": "NORTH EAST INDIA"
+    },
+    {
+        "city": "AGRA",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "AHMEDABAD",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "AIZWAL",
+        "state": "MIZORAM",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "AJMER",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "ALLAHABAD",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "ALLEPPEY",
+        "state": "KERALA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "ALIBAUG",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "ALMORA",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "ALSISAR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "ALWAR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "AMBALA",
+        "state": "HARYANA",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "AMLA",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "AMRITSAR",
+        "state": "PUNJAB",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "ANAND",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "ANKLESHWAR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "ASHTAMUDI",
+        "state": "KERALA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "AULI",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "AURANGABAD",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BADDI",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BADRINATH",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BALASINOR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BALRAMPUR",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BAMBORA",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BANDHAVGARH",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "BANDIPUR",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "BANGALORE",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "BARBIL",
+        "state": "ORISSA",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "BAREILLY",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BEHROR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BELGAUM",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "BERHAMPUR",
+        "state": "ORISSA",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "BETALGHAT",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BHARATPUR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BHANDARDARA",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BHARUCH",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BHAVANGADH",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BHAVNAGAR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BHILAI",
+        "state": "CHHATTISGARH",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "BHIMTAL",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BHOPAL",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "BHUBANESHWAR",
+        "state": "ORISSA",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "BHUJ",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BIKANER",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "BINSAR",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "BODHGAYA",
+        "state": "BIHAR",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "BUNDI",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "CALICUT",
+        "state": "KERALA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "CANANNORE",
+        "state": "KERALA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "CHAIL",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "CHAMBA",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "CHANDIGARH",
+        "state": "PUNJAB",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "CHENNAI",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "CHIKMAGALUR",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "CHIPLUN",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "CHITRAKOOT",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "CHITTORGARH",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "COIMBATORE",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "COONOOR",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "COORG",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "CORBETT NATIONAL PARK",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "CUTTACK",
+        "state": "ORISSA",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "DABHOSA",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DALHOUSIE",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "DAMAN",
+        "state": "DAMAN AND DIU",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DANDELI",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "DARGELING",
+        "state": "WEST BENGAL",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "DATIA",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "DAUSA",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DEHRADUN",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "DEVPRAYAG",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "DEOGARH",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DEOGHAR",
+        "state": "JHARKHAND",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "DHARAMSHALA",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "DHARAMPUR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DHULE",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DIU",
+        "state": "DAMAN AND DIU",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "DURGAPUR",
+        "state": "WEST BENGAL",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "DWARKA",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "FARIDABAD",
+        "state": "HARYANA",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "FIROZABAD",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GANGOTRI",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GANGTOK",
+        "state": "SIKKIM",
+        "region": "NORTH EAST INDIA"
+    },
+    {
+        "city": "GANGULI",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "GAYA",
+        "state": "BIHAR",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "GHAZIABAD",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GIR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "GOA",
+        "state": "GOA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "GONDAL",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "GOPALPUR",
+        "state": "ORISSA",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "GORAKHPUR",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GREATER NOIDA",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GULMARG",
+        "state": "JAMMU AND KASHMIR",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GURGAON",
+        "state": "HARYANA",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "GUWAHATI",
+        "state": "ASSAM",
+        "region": "NORTH EAST INDIA"
+    },
+    {
+        "city": "GWALIOR",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "HASSAN",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "HOSHIARPUR",
+        "state": "PUNJAB",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "HOSPET",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "HUBLI",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "HYDERABAD",
+        "state": "ANDHRA PRADESH",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "IGATPURI",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "INDORE",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "JABALPUR",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "JAIPUR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "JAISALMER",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "JALANDHAR",
+        "state": "PUNJAB",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "JALGAON",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "JAMMU",
+        "state": "JAMMU AND KASHMIR",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "JAMNAGAR",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "JHANSI",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "JODHPUR",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "JOGINDER NAGAR",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "JORHAT",
+        "state": "ASSAM",
+        "region": "NORTH EAST INDIA"
+    },
+    {
+        "city": "JUNAGARH",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "KABINI",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "KADAMBATHUR",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "KAITHAL",
+        "state": "HARYANA",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "KAJURAHO",
+        "state": "MADHYA PRADESH",
+        "region": "CENTRAL INDIA"
+    },
+    {
+        "city": "KALIMPONG",
+        "state": "WEST BENGAL",
+        "region": "EAST INDIA"
+    },
+    {
+        "city": "KALPA",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "KANATAL",
+        "state": "UTTARANCHAL",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "LACHUNG",
+        "state": "NORTH SIKKIM",
+        "region": "NORTH EAST INDIA"
+    },
+    {
+        "city": "LEH",
+        "state": "JAMMU & KASHMIR",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "LAKSHADWEEP",
+        "state": "UNION TERRITORY OF LAKSHADWEEP",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "LONAVALA",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "LOTHAL",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "LUCKNOW",
+        "state": "UTTAR PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "LUDHIANA",
+        "state": "PUNJAB",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "LUMBINI",
+        "state": "NEPAL",
+        "region": ""
+    },
+    {
+        "city": "MADURAI",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "MAHABALESHWAR",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "MAHABALIPURAM",
+        "state": "TAMIL NADU",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "MALAPPURAM",
+        "state": "KERALA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "MALPE",
+        "state": "KARNATAKA",
+        "region": "SOUTH INDIA"
+    },
+    {
+        "city": "MALSHEJ GHAT",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "MALVAN",
+        "state": "MAHARASHTRA",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "MANALI",
+        "state": "HIMACHAL PRADESH",
+        "region": "NORTH INDIA"
+    },
+    {
+        "city": "MANDAVI",
+        "state": "GUJARAT",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "MANDAWA",
+        "state": "RAJASTHAN",
+        "region": "WEST INDIA"
+    },
+    {
+        "city": "MANESAR",
+        "state": "HARYANA",
+        "region": "NORTH"
+    },
+    
+        {
+            "city": "MANESAR",
+            "state": "HARYANA",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MARARRI",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "MANDORMONI",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "MANGALORE",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "MANMAD",
+            "state": "MAHARASHTRA",
+            "region": "WESTERN REGION"
+        },
+        {
+            "city": "MARCHULA",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MATHERAN",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MATHURA",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MCLEODGANJ",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MOHALI",
+            "state": "PUNJAB",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MOUNT ABU",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MORADABAD",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MORBI",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MUKTESHWAR",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MUNDRA",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MUNNAR",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "MURUD JANJIRA",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "MUSSOORIE",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "MYSORE",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "NADUKANI",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "NAGAPATTINAM",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "NAGARHOLE",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "NAGAUR FORT",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NAGOTHANE",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NAGPUR",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NAHAN",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "NAINITAL",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "NALDHERA",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "NANDED",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NAPNE",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NASIK",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NAVI MUMBAI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NERAL",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "NEW DELHI",
+            "state": "DELHI",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "NILGIRI",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "NOIDA",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "OOTY",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "ORCHHA",
+            "state": "MADHYA PRADESH",
+            "region": "CENTRAL INDIA"
+        },
+        {
+            "city": "OSIAN",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PACHMARHI",
+            "state": "MADHYA PRADESH",
+            "region": "CENTRAL INDIA"
+        },
+        {
+            "city": "PALAMPUR",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PALANPUR",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PALI",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PAHALGAM",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PALITANA",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PALLAKAD",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "PANCHGANI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PANCHKULA",
+            "state": "HARYANA",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PANNA",
+            "state": "MADHYA PRADESH",
+            "region": "CENTRAL INDIA"
+        },
+        {
+            "city": "PANHALA",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PANVEL",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PANTNAGAR",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PARWANOO",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PATIALA",
+            "state": "PUNJAB",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PATHANKOT",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PATNA",
+            "state": "BIHAR",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "PATNITOP",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PELLING",
+            "state": "WEST SIKKIM",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "PENCH",
+            "state": "MADHYA PRADESH",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PHAGWARA",
+            "state": "PUNJAB",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PHALODI",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PINJORE",
+            "state": "HARYANA",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PONDICHERRY",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "POOVAR",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "PORBANDAR",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PORT BLAIR",
+            "state": "ANDAMAN & NICOBAR ISLANDS",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "POSHINA",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PRAGPUR",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PURI",
+            "state": "ORISSA",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "PUSKHAR",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "PUTTAPARTHI",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "RAI BAREILLY",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "RAICHAK",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "RAIPUR",
+            "state": "CHHATTISGARH",
+            "region": "CENTRAL INDIA"
+        },
+        {
+            "city": "RAJASTHAN",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RAJGIR",
+            "state": "BIHAR",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "RAJKOT",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RAJPIPLA",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RAJSAMAND",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RAJAHMUNDRY",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "RAMESHWARAM",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "RAM NAGAR",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "RAMGARH",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RANAKPUR",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RANCHI",
+            "state": "JHARKHAND",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "RANIKHET",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "RANNY",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "RANTHAMBORE",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RATNAGIRI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "RAVANGLA",
+            "state": "SIKKIM",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "RISHIKESH",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "RISHYAP",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "ROHETGARH",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "ROURKELA",
+            "state": "ORISSA",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "SAJAN",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SALEM",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "SAPUTARA",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SASAN GIR",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SATTAL",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SAWAI MADHOPUR",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SAWANTWADI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SECUNDERABAD",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "SHILLONG",
+            "state": "MEGHALAYA",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "SHIMLA",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SHIMLIPAL",
+            "state": "ORISSA",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "SHIRDI",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SHARAVANBELGOLA",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "SHIVANASAMUDRA",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "SIANA",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SILIGURI",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "SILVASSA",
+            "state": "UNION TERRITORY OF DADRA & NAGAR HAVELI",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "SIVAGANGA DISTRICT",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "SOLAN",
+            "state": "HIMACHAL PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SONAULI",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SRINAGAR",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SRINAGAR",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "SUNDERBAN",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "SURAT",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "TANJORE",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "TAPOLA",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "TARAPITH",
+            "state": "WEST BENGAL",
+            "region": "EAST INDIA"
+        },
+        {
+            "city": "THANE",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "THEKKADY",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "THIRVANNAMALAI",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "THIRUVANANTHAPURAM",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "TIRUCHIRAPALLI",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "TIRUPUR",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "TIRUPATI",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "THRISSUR",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "UDAIPUR",
+            "state": "RAJASTHAN",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "UDHAMPUR",
+            "state": "JAMMU & KASHMIR",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "UDUPI",
+            "state": "KARNATAKA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "UJJAIN",
+            "state": "MADHYA PRADESH",
+            "region": "CENTRAL INDIA"
+        },
+        {
+            "city": "UTTARKASHI",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "VADODARA",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "VAGAMON",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "VARKALA",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "VAPI",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "VARANASI",
+            "state": "UTTAR PRADESH",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "VELANKANNI",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "VELLORE",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "VERAVAL",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "VIJAYAWADA",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "VIKRAMGADH",
+            "state": "MAHARASHTRA",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "VISHAKAPATNAM",
+            "state": "ANDHRA PRADESH",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "WAYANAD",
+            "state": "KERALA",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "WANKANER",
+            "state": "GUJARAT",
+            "region": "WEST INDIA"
+        },
+        {
+            "city": "YAMUNOTRI",
+            "state": "UTTARANCHAL",
+            "region": "NORTH INDIA"
+        },
+        {
+            "city": "YERCAUD",
+            "state": "TAMIL NADU",
+            "region": "SOUTH INDIA"
+        },
+        {
+            "city": "YUKSOM",
+            "state": "SIKKIM",
+            "region": "NORTH EAST INDIA"
+        }
+   
+]
